@@ -11,11 +11,7 @@ https://github.com/shahriar-mohim007/video_feature_tool.git
 ```bash
 pip install -r requirements.txt
 ```
-3.Install Tesseract OCR
-```bash
-brew install tesseract
-```
-4.Then run
+3.Then run
 ```bash
 python3 video_extraction.py
 ```
